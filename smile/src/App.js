@@ -8,7 +8,7 @@ import Assessments from "./pages/Assessment";
 import FillProfile from "./pages/FillProfile";
 import A from "./Navbar"
 import 'bootstrap/dist/css/bootstrap.min.css';
-import side from "./side"
+import side from "./Side"
 function App() {
   return (
     <Router>
