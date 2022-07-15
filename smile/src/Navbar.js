@@ -33,7 +33,7 @@ function CollapsibleExample() {
               </NavDropdown.Item>
             </NavDropdown>
           </Nav> */}
-          <NavDropdown title={
+          <NavDropdown alignRight title={
                     <div className="me-auto">
                         <img className="me-auto"
                             src={"https://github.com/tf153.png"} 

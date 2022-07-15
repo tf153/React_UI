@@ -75,7 +75,7 @@ const SideBar = ({ children }) => {
 
   return (
     <>
-      <div className="main-container">
+      <div className="main-container" style={{position: 'absolute',width: '30cm'}}>
         <motion.div
           animate={{
             width: isOpen ? "200px" : "45px",
